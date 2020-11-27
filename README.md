@@ -2,11 +2,11 @@
   1. Client and Server is included in same main folder
 
 
-# Install dependencies for server
+# Instruction to run project
 
-    1. NPM install           //inside client folder
-    2  NPM install          // in Main folder
-    3  NPM run dev          from Main Folder
+    1. NPM install           // inside client folder
+    2  NPM install          //  in Main folder
+    3  NPM run dev          // from Main Folder 
 
 
 
