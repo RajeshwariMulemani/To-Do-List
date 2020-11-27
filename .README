@@ -1,0 +1,9 @@
+#Project Description
+  1. Client and Server is included in same main folder
+
+
+#instruction to run project
+
+    1. NPM install           //inside client folder
+    2  NPM install          // in Main folder
+    3  NPM run dev      from Main Folder
